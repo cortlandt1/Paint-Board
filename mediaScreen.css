@@ -1,0 +1,107 @@
+
+/* ---------------------- About Media screens ---------------------- */
+@media only screen and (max-width: 414px) {
+    .nav {
+        display: none;
+        }
+
+    .mobile-nav {
+        display: flex!important;
+        margin-top: 0px!important;
+        }
+
+    .right-section-images {
+        margin: 0;
+    }
+
+    .left-section-heading {
+        margin-left: 34px;
+        margin-top: 21px;
+        padding-bottom: 36px;
+        width: 82%;
+    }
+
+    .left-section-info {
+        width: 152%;
+        margin-top: 46px;
+        margin-left: 48px;
+        line-height: 29px;
+    }
+
+    .right-section {
+        display: none;
+    }
+
+    .footer-container {
+        height: 900px;
+    }
+
+    .footer-block-1, .footer-block-2, .footer-block-3, .footer-block-4 {
+        height: 100px;
+    }
+
+    .footer-block-3 {
+        padding-top: 151px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .about-container {
+        height: 1470px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .about-container {
+        height: 1650px;
+    }
+}
+
+
+/* ---------------------- Gallery Media screens ---------------------- */
+
+/* ---------------------- Home/Index Media screens ---------------------- */
+@media only screen and (max-width: 414px) {
+    .info-box {
+        height: 130px;
+        width: 380px;
+    }
+    .info-body {
+        font-size: 19px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .info-box {
+        height: 124px;
+        width: 345px;
+    }
+    .info-title {
+        font-size: 26px;
+    }
+    .info-body {
+        font-size: 17px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .info-box {
+        height: 109px;
+        width: 286px;
+    }
+    .info-title {
+        margin-top: 0px;
+        font-size: 22px;
+    }
+    .info-body {
+        font-size: 14px;
+    }
+}
+
+/* ---------------------- Paint Media screens ---------------------- */
+
+/* ---------------------- Services Media screens ---------------------- */
+
+/* ---------------------- Studio Media screens ---------------------- */
+
+/* ---------------------- Workshops Media screens ---------------------- */
