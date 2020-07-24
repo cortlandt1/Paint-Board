@@ -1,0 +1,37 @@
+.block__gallery {
+}
+
+.block__gallery__header__container {
+    background-image: url(../assets/home-background.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 1000px;
+    height: 450px;
+    background-position-y: -504px;
+}
+
+.block__gallery__background {
+    color: black;
+    background-color: rgba(255, 255, 255, 0.568);
+    height: 80px;
+    margin-right: 620px;
+    margin-left: 620px;
+    position: relative;
+    top: 179px;
+}
+
+.block__gallery__header {
+    color: black;
+    text-align: center;
+    line-height: 80px;
+}
+
+.block__gallery__wrapper {
+    margin-top: 50px;
+    padding-left: 70px;
+    margin-bottom: 50px;
+}
+
+.gallery__image {
+    height: 250px;
+    width: 375px;
+}

@@ -1,0 +1,162 @@
+.workshop-info-header {
+    display: flex;
+    height: 700.33px;
+    width: 100%;
+    border-bottom: 1px solid rgb(100, 100, 100);
+}
+
+.workshop-img-header{
+    max-height: 700.33px;
+    width: 50%;
+}
+
+.workshop-image {
+    max-height: 700.33px;
+    width: 100%;
+    background-size: cover;
+}
+
+
+.workshop-text-header{
+    background-color: rgb(236, 236, 236);
+    width: 50%;
+    display: flex; 
+    justify-content: center;
+    float: right;
+}
+
+.text-container {
+    width: 500px;
+    position: absolute;
+    top: 417px;
+}
+
+.text-1 {
+    margin-top: 0px;
+    margin-bottom: 4px;
+    justify-content: center;     
+    font-weight: 500;
+    font-size: 46px;
+}
+
+.text-2 {
+    color: rgb(138, 138, 138);
+    margin-top: 0px;
+    margin-bottom: 5px;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.text-3 {
+    color: black;
+    justify-content: center;
+    margin-top: 0px;
+    line-height: 1.5;
+
+}
+
+.workshop-cover-image {
+    height: 825px;
+    width: 100%;
+    background-image: url(../assets/living-room-2569325_1920.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    z-index:-1;
+}
+
+.workshop-description-container {
+    background-color: rgba(29, 29, 29, 0.4);
+    height: 800px;
+    padding-top: 25px;
+    position: absolute;
+    transform: translate(-0%, -100%);
+}
+
+.workshop-description-container-right {
+      padding-top: 182px;
+}
+
+.workshop-description-header {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: white;
+    font-size: 35px;
+}
+
+.workshop-description-content {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    text-align: justify;
+    line-height: 1.9;
+    color: white;
+    padding-left: 130px;
+    padding-right: 130px;
+}
+
+.list-container {
+    font-family: 'Bilbo', cursive;
+    /* font-family: 'Source Sans Pro', sans-serif; */
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    column-count: 2;
+}
+
+.list-description {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    /* padding-left: 135px; */
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.workshop-description-wrapper {
+    padding-top: 145px;
+    padding-right: 150px;
+    padding-left: 150px;
+    justify-content: center;
+}
+
+.workshop-description-images {
+    display: block;
+    width: 50%;
+    float: right;
+}
+
+.workshop-description-header-right {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: center;
+}
+
+.workshop-description-wrapper-right {
+    display: block;
+    width: 50%;
+    float: right;
+}
+
+.workshop-description-content-right {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(138, 138, 138);
+    width: 400px;
+    margin-left: 90px;
+    font-size: 17px;
+    line-height: 1.9;
+}
+
+.workshop-description-images-right {
+    display: block;
+    width: 45%;
+    padding-bottom: 200px;
+    margin-left: 25px;
+}
