@@ -105,3 +105,222 @@
 /* ---------------------- Studio Media screens ---------------------- */
 
 /* ---------------------- Workshops Media screens ---------------------- */
+@media only screen and (max-width: 414px) {
+    .workshop-info-header {
+        display: none;
+    }
+
+    .workshop-info-header {
+        display: none;
+    }
+
+    .workshop-cover-image {
+        max-width: 414px;
+    }
+
+    .workshop-description-header {
+        width: 300px;
+    }
+
+    .workshop-description-container {
+        max-width: 414px;
+        height: 933px;
+    }
+
+    .workshop-description-wrapper {
+        padding-left: 58px;
+        padding-top: 90px;
+    }
+
+    .workshop-description-content {
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-left: -3px;
+        width: 300px;
+    }
+
+    .workshop-cover-image {
+        height: 957px;
+    }
+
+    .list-container {
+        width: 300px;
+    }
+
+    .list-description {
+        width: 333px;
+    }
+
+    .workshop-description-container-right {
+        padding-top: 109px;
+    }
+    .workshop-description-wrapper-right {
+        float: none;
+        width: 100%;
+    }
+
+    .workshop-description-header-right {
+        margin-left: 59px;
+        font-size: 39px;
+    }
+
+    .workshop-description-content-right {
+        width: 377px;
+        margin-left: 22px;
+    }
+    .workshop-description-images-right {
+        width: 88%;
+        padding-bottom: 113px;
+    }
+
+    hr {
+        margin-left: 61px!important;
+        margin-right: 60px!important;
+    }
+}
+
+
+@media only screen and (max-width: 375px) {
+    .workshop-info-header {
+        display: none;
+    }
+
+    .workshop-cover-image {
+        max-width: 375px;
+    }
+
+    .workshop-description-header {
+        width: 300px;
+    }
+
+    .workshop-description-container {
+        max-width: 375px;
+        height: 933px;
+    }
+
+    .workshop-description-wrapper {
+        padding-left: 40px;
+        padding-top: 90px;
+    }
+
+    .workshop-description-content {
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-left: -3px;
+        width: 300px;
+    }
+
+    .workshop-cover-image {
+        height: 957px;
+    }
+
+    .list-container {
+        width: 300px;
+    }
+
+    .list-description {
+        width: 300px;
+    }
+
+    .workshop-description-container-right {
+        padding-top: 109px;
+    }
+    .workshop-description-wrapper-right {
+        float: none;
+        width: 100%;
+    }
+
+    .workshop-description-header-right {
+        margin-left: 59px;
+        font-size: 39px;
+    }
+
+    .workshop-description-content-right {
+        width: 324px;
+        margin-left: 36px;
+    }
+    .workshop-description-images-right {
+        width: 88%;
+        padding-bottom: 113px;
+    }
+
+    hr {
+        margin-left: 61px!important;
+        margin-right: 60px!important;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .workshop-info-header {
+        display: none;
+    }
+
+    .workshop-info-header {
+        display: none;
+    }
+
+    .workshop-cover-image {
+        max-width: 320px;
+    }
+
+    .workshop-description-header {
+        width: 300px;
+    }
+
+    .workshop-description-container {
+        max-width: 320px;
+        height: 991px;
+    }
+
+    .workshop-description-wrapper {
+        padding-left: 20px;
+        padding-top: 90px;
+    }
+
+    .workshop-description-content {
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-left: -3px;
+        width: 289px;
+    }
+
+    .workshop-cover-image {
+        height: 1015px;
+    }
+
+    .list-container {
+        width: 300px;
+        margin-left: -22px;
+    }
+
+    .list-description {
+        width: 300px;
+    }
+
+    .workshop-description-container-right {
+        padding-top: 109px;
+    }
+    .workshop-description-wrapper-right {
+        float: none;
+        width: 100%;
+    }
+
+    .workshop-description-header-right {
+        margin-left: 59px;
+        font-size: 39px;
+    }
+
+    .workshop-description-content-right {
+        width: 282px;
+        margin-left: 36px;
+    }
+    .workshop-description-images-right {
+        width: 86%;
+        padding-bottom: 113px;
+    }
+
+    hr {
+        margin-left: 61px!important;
+        margin-right: 60px!important;
+    }
+}
