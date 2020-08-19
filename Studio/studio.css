@@ -20,15 +20,15 @@
 }
 
 .studio-header {
-    
+    letter-spacing: 2px;
     padding-top: 13%;
     display: flex;
     justify-content: center;
     text-align: center;
-    font-size: 50px;
-    font-weight: 300;
+    font-size: 52px;
+    font-weight: 400;
     color: white;
-    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     text-transform: uppercase;
 }
 
@@ -45,7 +45,7 @@
     line-height: 1.6;
     width: 725px;
     color: white;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .studio-party-container {
@@ -59,26 +59,39 @@
 
 .studio-party-header {
     font-weight: 500;
-    padding-bottom: 25px;
+    font-size: 48px;
+    padding-bottom: 10px;
     margin-top: 40px;
-    margin-bottom: 40px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    margin-right: 20q;
     border-bottom: rgb(250, 224, 228) 1px solid;
-    font-family: 'Source Sans Pro', sans-serif;
+    color:black;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 .studio-party-info {
     color: rgb(138, 138, 138);
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    letter-spacing: 3px;
+    font-size: 16px;
+    text-align: center;
 }
 
 .studio-party-ul {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    letter-spacing: 3px;
     color: rgb(138, 138, 138);
 }
 
 .studio-img-container {
     margin-top: 30px;
     margin-bottom: 50px;
+    margin-left: 140px;
+    margin-right: 140px;
     display: flex;
     justify-content: center;
 }

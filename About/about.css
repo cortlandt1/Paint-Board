@@ -13,14 +13,14 @@
 
 .right-section-images {
     margin-left: 150px;
-    height: 325px;
-    width: 450px;
+    height: 50%;
+    width: 50%;
     padding-top: -15px;
-    margin-top: 50px; 
+    margin-top: 20px; 
 }
 
 .about-container {
-height: 1000px;
+height: 1200px;
 }
 
 .left-section {
@@ -30,6 +30,8 @@ height: 1000px;
     float: left;
     justify-content: center;
     background-color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    letter-spacing: 3px;
 }
 
 .left-section-heading {
@@ -37,11 +39,11 @@ height: 1000px;
     justify-content: left;
     margin-left: 175px;
     margin-top: 118px;
-    padding-bottom: 50px;
-    width: 65%;
+    padding-bottom: 15px;
+    width: 25%;
     font-size: 44px;
     text-transform: uppercase;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     border-bottom: rgb(250, 224, 228) 1px solid;
 }
 

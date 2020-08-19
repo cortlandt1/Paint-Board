@@ -37,6 +37,9 @@
     justify-content: center;     
     font-weight: 500;
     font-size: 46px;
+    letter-spacing: 2px;
+    font-family: 'Noto Sans TC', sans-serif;
+
 }
 
 .text-2 {
@@ -46,6 +49,9 @@
     justify-content: center;
     font-weight: 500;
     font-size: 20px;
+    letter-spacing: 2px;
+    font-family: 'Noto Sans TC', sans-serif;
+
 }
 
 .text-3 {
@@ -53,19 +59,20 @@
     justify-content: center;
     margin-top: 0px;
     line-height: 1.5;
-
+    font-family: 'Open Sans Condensed', sans-serif;
+    letter-spacing: 2px;
 }
 
 .workshop-cover-image {
     height: 825px;
     width: 100%;
-    background-image: url(../assets/living-room-2569325_1920.jpg);
+    background-image: url(../assets/92CDF4F3-74DA-4D0C-9091-92E50BBB898E.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    filter: blur(2px);
-    -webkit-filter: blur(2px);
+    filter: blur(1.5px);
+    -webkit-filter: blur(1.5px);
     z-index:-1;
 }
 
@@ -87,22 +94,22 @@
     font-weight: 500;
     color: white;
     font-size: 35px;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 .workshop-description-content {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-size: 20px;
     font-style: italic;
     text-align: justify;
     line-height: 1.9;
     color: white;
-    padding-left: 130px;
-    padding-right: 130px;
+    padding-left: 90px;
+    padding-right: 90px;
 }
 
 .list-container {
     font-family: 'Bilbo', cursive;
-    /* font-family: 'Source Sans Pro', sans-serif; */
     color: white;
     text-align: center;
     font-size: 30px;
@@ -110,13 +117,13 @@
 }
 
 .list-description {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     color: white;
     display: flex;
     justify-content: center;
-    /* padding-left: 135px; */
-    font-weight: 600;
+    font-weight: 550;
     font-size: 24px;
+    letter-spacing: 1px;
 }
 
 .workshop-description-wrapper {
@@ -135,8 +142,12 @@
 .workshop-description-header-right {
     text-align: center;
     text-transform: uppercase;
+    font-size: 44px;
+    color:black;
     font-weight: 500;
-    text-align: center;
+    text-align: left;
+    margin-left: 87px;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 .workshop-description-wrapper-right {
@@ -146,12 +157,13 @@
 }
 
 .workshop-description-content-right {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     color: rgb(138, 138, 138);
     width: 400px;
     margin-left: 90px;
-    font-size: 17px;
-    line-height: 1.9;
+    font-size: 16px;
+    letter-spacing: 3px;
+    line-height: 1.7;
 }
 
 .workshop-description-images-right {
